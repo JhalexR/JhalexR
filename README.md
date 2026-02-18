@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTB6OWwwZGw0cTF4d3hkYXluamNhOGs3ZWMxb21kODg3ZTNlZjEweCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xbLZjyMNQqEpTKjkSm/giphy.gif" width="100"/>
+  <img src="https://giphy.com/gifs/nuevofoundation-coding-stem-anyonecancode-aEwLTJvYxwo1L09oyP" width="100"/>
 </div>
 
 <p align="center">
