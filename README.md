@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGd0cTJ2enZkcGN4dnE1ODM2OTNwbXdoejV5Y21pOHhqYmNoZDlibSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/60rKrLGRwRTREWUuFJ/giphy.gif" width="100"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGd0cTJ2enZkcGN4dnE1ODM2OTNwbXdoejV5Y21pOHhqYmNoZDlibSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/60rKrLGRwRTREWUuFJ/giphy.gif" width="300"/>
 </div>
 
 <p align="center">
@@ -7,10 +7,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </p>
-
-<div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3dydzk1NGh1emh6YnZreTQ3OWNxempzemQ4Y3J6NjdsOXhwanE4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aEwLTJvYxwo1L09oyP/giphy.gif" width="300" height="150"/>
-</div>
 
 <h1>
   <div align="center">
