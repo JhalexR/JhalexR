@@ -57,4 +57,4 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JhalexR&theme=dark&background=000000)](https://git.io/streak-stats)
 
-![Jhalex's GitHub stats](https://github-readme-stats.vercel.app/api?username=JhalexR&show=reviews)
+![Jhalex´s GitHub stats](https://github-readme-stats.vercel.app/api?username=JhalexR&commits_year=2025)
