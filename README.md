@@ -18,9 +18,9 @@
   
 **I’m a Software Engineering student focused on Backend development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Colombia.**
 
-  - Currently specializing in Go and Node.js <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGIyejkwNHFleGg5ZzZ2MXN1eDV0Z3kwejNpa25pNHptMjVia3I0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lOfSzpPeMb9gF2OJ5O/giphy.gif" width="30">
-  - Actively looking for opportunities to gain hands-on experience <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTlhZGUwZWs2bHVzdW5nOGh1cmZjYWt2bHZyazA0M2VldnhiNmF0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xgKt0DBn7rPbFAdyKr/giphy.gif" width="30">
-  - Passionate about everything related to backend development <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHEyZDE0cmFxYWw3NmphdTRidzk4NXlnd3oyYjBkNDF5NW5tcDZqbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1fgl4fkw0azQH2lAcJ/giphy.gif" width="30">
+Currently specializing in Go and Node.js 
+Actively looking for opportunities to gain hands-on experience 
+Passionate about everything related to backend development 
   
 </div>
 
@@ -48,9 +48,9 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github.com/JhalexR&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JhalexR&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=github.com/JhalexR&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JhalexR&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
