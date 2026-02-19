@@ -1,5 +1,5 @@
 <div id="header">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGd0cTJ2enZkcGN4dnE1ODM2OTNwbXdoejV5Y21pOHhqYmNoZDlibSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/60rKrLGRwRTREWUuFJ/giphy.gif" width="300"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjVwaHZ1MnE3aDdnd2Z1NnZ2MnN4eWtnaGxhczh6YzZ3bjM1dTBzMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ve43TyDQ3B4me7d22z/giphy.gif" width="300"/>
 </div>
 
 <p>
@@ -18,11 +18,11 @@
   
 **I’m a Software Engineering student focused on Backend development from Colombia.**
 
-Currently specializing in Go and Node.js 
++ Currently specializing in Go and Node.js 
 
-Actively looking for opportunities to gain hands-on experience 
++ Actively looking for opportunities to gain hands-on experience 
 
-Passionate about everything related to backend development 
++ Passionate about everything related to backend development 
   
 </div>
 
@@ -34,8 +34,8 @@ Passionate about everything related to backend development
 
 <div>
   
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="GO" alt="GO" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/> 
