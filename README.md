@@ -14,4 +14,43 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Colombia.
+<div align="center"> 
+  
+**I’m a Software Engineering student focused on Backend development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Colombia.**
+
+  - Currently specializing in Go and Node.js <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGIyejkwNHFleGg5ZzZ2MXN1eDV0Z3kwejNpa25pNHptMjVia3I0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lOfSzpPeMb9gF2OJ5O/giphy.gif" width="30">
+  - Actively looking for opportunities to gain hands-on experience <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTlhZGUwZWs2bHVzdW5nOGh1cmZjYWt2bHZyazA0M2VldnhiNmF0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xgKt0DBn7rPbFAdyKr/giphy.gif" width="30">
+  - Passionate about everything related to backend development <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHEyZDE0cmFxYWw3NmphdTRidzk4NXlnd3oyYjBkNDF5NW5tcDZqbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1fgl4fkw0azQH2lAcJ/giphy.gif" width="30">
+  
+</div>
+
+---
+
+
+
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="GO" alt="GO" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/> 
+
+</div>
+
+---
+
+
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github.com/JhalexR&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=github.com/JhalexR&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
