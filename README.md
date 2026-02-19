@@ -55,4 +55,7 @@ Passionate about everything related to backend development
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?user=JhalexR&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JhalexR&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
