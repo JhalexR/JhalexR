@@ -1,25 +1,27 @@
-<div id="header" align="center">
+<div id="header">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGd0cTJ2enZkcGN4dnE1ODM2OTNwbXdoejV5Y21pOHhqYmNoZDlibSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/60rKrLGRwRTREWUuFJ/giphy.gif" width="300"/>
 </div>
 
-<p align="center">
+<p>
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </p>
 
 <h1>
-  <div align="center">
+  <div>
   Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<div align="center"> 
+<div> 
   
-**I’m a Software Engineering student focused on Backend development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Colombia.**
+**I’m a Software Engineering student focused on Backend development from Colombia.**
 
 Currently specializing in Go and Node.js 
+
 Actively looking for opportunities to gain hands-on experience 
+
 Passionate about everything related to backend development 
   
 </div>
@@ -51,6 +53,6 @@ Passionate about everything related to backend development
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JhalexR&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JhalexR&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?user=JhalexR&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
