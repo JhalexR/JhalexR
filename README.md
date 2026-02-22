@@ -36,18 +36,18 @@
 
 <div>
 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="GO" alt="GO" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="GO" alt="GO" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/fiber/fiber-plain.svg" title="Fiber" alt="Fiber" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/> 
-  <img src="https://github.com/JhalexR/JhalexR/blob/main/express.png" title="Express" alt="Express" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" title="Docker"  alt="Docker" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/> 
+  <img src="https://github.com/JhalexR/JhalexR/blob/main/Icons/go-original.svg" title="GO" alt="GO" width="40" height="40"/> 
+  <img src="https://github.com/JhalexR/JhalexR/blob/main/Icons/go-original-wordmark.svg" title="GO" alt="GO" width="40" height="40"/> 
+  <img src="https://github.com/JhalexR/JhalexR/blob/main/Icons/fiber-plain.svg" title="Fiber" alt="Fiber" width="40" height="40"/> 
+  <img src="https://github.com/JhalexR/JhalexR/blob/main/Icons/nodejs-plain-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/> 
+  <img src="https://github.com/JhalexR/JhalexR/blob/main/Icons/express.png" alt="Express" width="40" height="40"/> 
+  <img src="https://github.com/JhalexR/JhalexR/blob/main/Icons/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/> 
+  <img src="https://github.com/JhalexR/JhalexR/blob/main/Icons/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/> 
+  <img src="https://github.com/JhalexR/JhalexR/blob/main/Icons/postgresql-plain-wordmark.svg" title="Postgresql"  alt="Postgresql" width="40" height="40"/> 
+  <img src="https://github.com/JhalexR/JhalexR/blob/main/Icons/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/> 
+  <img src="https://github.com/JhalexR/JhalexR/blob/main/Icons/docker-original-wordmark.svg" title="Docker"  alt="Docker" width="40" height="40"/> 
+  <img src="https://github.com/JhalexR/JhalexR/blob/main/Icons/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/> 
+  <img src="https://github.com/JhalexR/JhalexR/blob/main/Icons/git-plain-wordmark.svg" title="Git" alt="Git" width="40" height="40"/> 
 
 </div>
 
