@@ -58,6 +58,3 @@
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JhalexR&theme=dark&background=000000)](https://git.io/streak-stats)
-
-
-![Top Langs](https://github-readme-stats-lgc90smart-6072s-projects.vercel.app/api/top-langs/?username=JhalexR&layout=compact)
