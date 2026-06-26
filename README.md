@@ -38,7 +38,7 @@
   <img src="https://github.com/JhalexR/JhalexR/blob/main/Icons/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/> 
   <img src="https://github.com/JhalexR/JhalexR/blob/main/Icons/postgresql-plain-wordmark.svg" title="Postgresql"  alt="Postgresql" width="40" height="40"/> 
   <img src="https://github.com/JhalexR/JhalexR/blob/main/Icons/docker-original-wordmark.svg" title="Docker"  alt="Docker" width="40" height="40"/> 
-   
+  <img src="https://github.com/JhalexR/JhalexR/blob/main/Icons/rust.svg" title="Rust"  alt="Rust" width="40" height="40"/>
 
 </div>
 
