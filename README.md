@@ -1,15 +1,4 @@
-<div id="header">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjVwaHZ1MnE3aDdnd2Z1NnZ2MnN4eWtnaGxhczh6YzZ3bjM1dTBzMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ve43TyDQ3B4me7d22z/giphy.gif" width="300"/>
-</div>
-
-<p>
-  <a href="https://www.linkedin.com/in/jhalexr/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</p>
-
-![](https://komarev.com/ghpvc/?username=JhalexR)
-  
+ 
 <h1>
   <div>
   Hey there
@@ -24,7 +13,15 @@
 
 + Actively looking for opportunities to gain hands-on experience 
 
-+ Passionate about everything related to backend development 
++ Passionate about everything related to backend development
+
+<p>
+  <a href="https://www.linkedin.com/in/jhalexr/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</p>
+
+![](https://komarev.com/ghpvc/?username=JhalexR)
   
 </div>
 
