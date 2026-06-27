@@ -42,7 +42,6 @@
   <img src="https://github.com/JhalexR/JhalexR/blob/main/Icons/aws-svgrepo-com.svg" title="aws"  alt="aws" width="40" height="40"/>
   <img src="https://github.com/JhalexR/JhalexR/blob/main/Icons/prometheus-svgrepo-com.svg" title="prometheus"  alt="prometheus" width="40" height="40"/>
   <img src="https://github.com/JhalexR/JhalexR/blob/main/Icons/grafana-svgrepo-com.svg" title="Grafana"  alt="Grafana" width="40" height="40"/>
-  <img src="https://github.com/JhalexR/JhalexR/blob/main/Icons/redis-svgrepo-com.svg" title="Redis"  alt="Redis" width="40" height="40"/>
   <img src="https://github.com/JhalexR/JhalexR/blob/main/Icons/rust.svg" title="Rust"  alt="Rust" width="40" height="40"/>
   <img src="https://github.com/JhalexR/JhalexR/blob/main/Icons/scala-svgrepo-com%20(1).svg" title="Scala"  alt="Scala" width="40" height="40"/>
   
