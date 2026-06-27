@@ -34,11 +34,14 @@
 <div>
 
   <img src="https://github.com/JhalexR/JhalexR/blob/main/Icons/go-original.svg" title="GO" alt="GO" width="40" height="40"/> 
-  <img src="https://github.com/JhalexR/JhalexR/blob/main/Icons/nodejs-plain-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/> 
-  <img src="https://github.com/JhalexR/JhalexR/blob/main/Icons/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/> 
-  <img src="https://github.com/JhalexR/JhalexR/blob/main/Icons/postgresql-plain-wordmark.svg" title="Postgresql"  alt="Postgresql" width="40" height="40"/> 
-  <img src="https://github.com/JhalexR/JhalexR/blob/main/Icons/docker-original-wordmark.svg" title="Docker"  alt="Docker" width="40" height="40"/> 
   <img src="https://github.com/JhalexR/JhalexR/blob/main/Icons/rust.svg" title="Rust"  alt="Rust" width="40" height="40"/>
+  <img src="https://github.com/JhalexR/JhalexR/blob/main/Icons/nodejs-marco.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/> 
+  <img src="https://github.com/JhalexR/JhalexR/blob/main/Icons/typescript-AQzul_redondo.svg" title="Typescript" alt="Typescript" width="40" height="40"/> 
+  <img src="https://github.com/JhalexR/JhalexR/blob/main/Icons/postgresql-Azul_con_marco.svg" title="Postgresql"  alt="Postgresql" width="40" height="40"/> 
+  <img src="https://github.com/JhalexR/JhalexR/blob/main/Icons/docker-Azul_con_marco.svg" title="Docker"  alt="Docker" width="40" height="40"/> 
+  <img src="https://github.com/JhalexR/JhalexR/blob/main/Icons/kubernetes-svgrepo-com.svg" title="Kubernetes"  alt="Kubernetes" width="40" height="40"/>
+  <img src="https://github.com/JhalexR/JhalexR/blob/main/Icons/grafana-svgrepo-com.svg" title="Grafana"  alt="Grafana" width="40" height="40"/>
+  
 
 </div>
 
