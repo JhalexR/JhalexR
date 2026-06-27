@@ -33,14 +33,19 @@
 
 <div>
 
-  <img src="https://github.com/JhalexR/JhalexR/blob/main/Icons/go-original.svg" title="GO" alt="GO" width="40" height="40"/> 
-  <img src="https://github.com/JhalexR/JhalexR/blob/main/Icons/rust.svg" title="Rust"  alt="Rust" width="40" height="40"/>
+  <img src="https://github.com/JhalexR/JhalexR/blob/main/Icons/go-original.svg" title="GO" alt="GO" width="40" height="40"/>   
   <img src="https://github.com/JhalexR/JhalexR/blob/main/Icons/nodejs-marco.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/> 
   <img src="https://github.com/JhalexR/JhalexR/blob/main/Icons/typescript-AQzul_redondo.svg" title="Typescript" alt="Typescript" width="40" height="40"/> 
   <img src="https://github.com/JhalexR/JhalexR/blob/main/Icons/postgresql-Azul_con_marco.svg" title="Postgresql"  alt="Postgresql" width="40" height="40"/> 
   <img src="https://github.com/JhalexR/JhalexR/blob/main/Icons/docker-Azul_redondo.svg" title="Docker"  alt="Docker" width="40" height="40"/> 
   <img src="https://github.com/JhalexR/JhalexR/blob/main/Icons/kubernetes-svgrepo-com.svg" title="Kubernetes"  alt="Kubernetes" width="40" height="40"/>
+  <img src="https://github.com/JhalexR/JhalexR/blob/main/Icons/aws-svgrepo-com.svg" title="aws"  alt="aws" width="40" height="40"/>
+  <img src="https://github.com/JhalexR/JhalexR/blob/main/Icons/prometheus-svgrepo-com.svg" title="prometheus"  alt="prometheus" width="40" height="40"/>
   <img src="https://github.com/JhalexR/JhalexR/blob/main/Icons/grafana-svgrepo-com.svg" title="Grafana"  alt="Grafana" width="40" height="40"/>
+  <img src="https://github.com/JhalexR/JhalexR/blob/main/Icons/redis-svgrepo-com.svg" title="Redis"  alt="Redis" width="40" height="40"/>
+  <img src="https://github.com/JhalexR/JhalexR/blob/main/Icons/rust.svg" title="Rust"  alt="Rust" width="40" height="40"/>
+  <img src="https://github.com/JhalexR/JhalexR/blob/main/Icons/scala-svgrepo-com%20(1).svg" title="Scala"  alt="Scala" width="40" height="40"/>
+  
   
 
 </div>
