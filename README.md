@@ -61,46 +61,34 @@
 <div>
 
  ### :trophy: Top
- 
- <a align="left">
-
+<p align="left">
    <a href="https://github.com/JhalexR"><img alt="John Alexander's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=JhalexR&hide=css,html&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=27F5F5" height="192px" width="49.5%"/></a>  
-
-<br/>
+</p>
 
 ### :stars: obtained
-
+<p align="left">
 <br/>
     <a href="https://github.com/JhalexR"><img alt="John Alexander's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=JhalexR&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=27F5F5" height="192px" width="49.5%"/></a> 
- 
-  <br/>
-</a>
-
+</p>
 </div>
 
 <div>
-
 ### :watch: Streak 
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JhalexR&theme=dark&background=000000)](https://git.io/streak-stats)
-
 </div>
 
 <div>
-
 ### :coin: Contributions
-
 <p align="left">
   <a href="https://github.com/JhalexR">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JhalexR&theme=radical" alt="John Alexander's GitHub Contribution"/>
   </a>
 </p>
-
 </div>
 
 <div>
 
-### :construction_worker_man: Contributions
+### :construction_worker_man: Workday
 
 ![John Alexander's Graph](https://github-readme-activity-graph.vercel.app/graph?username=JhalexR&custom_title=John%20Alexander's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=27F5F5&line=27F5F5&point=27F5F5&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
