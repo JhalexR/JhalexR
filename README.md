@@ -84,7 +84,9 @@
 </div>
 
 <div>
+ 
 ### :coin: Contributions
+
 <p align="left">
   <a href="https://github.com/JhalexR">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JhalexR&theme=radical" alt="John Alexander's GitHub Contribution"/>
