@@ -61,20 +61,26 @@
 <div>
 
  ### :trophy: Top
+ 
 <p align="left">
-   <a href="https://github.com/JhalexR"><img alt="John Alexander's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=JhalexR&hide=css,html&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=27F5F5" height="192px" width="49.5%"/></a>  
+ 
+   <a href="https://github.com/JhalexR"><img alt="John Alexander's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=JhalexR&hide=css,html&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=27F5F5&icon_color=F8D866" height="192px" width="49.5%"/></a>  
 </p>
 
 ### :stars: obtained
 <p align="left">
+ 
 <br/>
-    <a href="https://github.com/JhalexR"><img alt="John Alexander's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=JhalexR&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=27F5F5" height="192px" width="49.5%"/></a> 
+    <a href="https://github.com/JhalexR"><img alt="John Alexander's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=JhalexR&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=27F5F5&icon_color=F8D866" height="192px" width="49.5%"/></a> 
 </p>
 </div>
 
 <div>
+ 
 ### :watch: Streak 
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JhalexR&theme=dark&background=000000)](https://git.io/streak-stats)
+
 </div>
 
 <div>
