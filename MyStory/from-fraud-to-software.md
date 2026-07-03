@@ -28,7 +28,7 @@ gitGraph
 
     checkout main
 
-    commit id:"Return to<br> Software Engineering<br> (2023)"
+    commit id:"Return to <br> Software Engineering <br> (2023)"
 
     commit id:"Backend Development"
 
