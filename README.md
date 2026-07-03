@@ -1,22 +1,61 @@
+# :back::end: ... :soon:  
+
+ > _I spent years understanding how financial fraud works. </br> Now, I'm building the software I once wished existed._
+
+```mermaid
+gitGraph
+    commit id:"Programming"
+
+    branch finance
+
+    checkout finance
+    commit id:"Banking"
+
+    commit id:"Fraud Prevention"
+
+    commit id:"Payment Ecosystem"
+
+    commit id:"Real Problems"
+
+    branch ideas
+
+    checkout ideas
+
+    commit id:"Automation"
+
+    commit id:"Fraud Platform"
+
+    commit id:"Risk Analysis"
+
+    commit id:"Payment APIs"
+
+    checkout main
+
+    commit id:"Software Engineering"
+
+    merge finance
+
+    merge ideas
+
+    commit id:"Fintech Engineer"
+```
  
-<h1>
-  <div>
-  Hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+I’m John Alexander, a Software Engineering student 🔰 from Colombia, </br> focused on backend development for the fintech and banking sectors. 💳
 
-<div> 
-  
-**I’m a Software Engineering student :beginner: focused on Backend development from Colombia.**
+I am currently in the early stages of my tech career 🌱 </br> and am actively seeking opportunities to gain practical experience through internships or junior roles. 🎓
 
-+ I am currently in the germination and growth stage. :seedling:
+My passion for software development started years ago. Although my career path initially led me to the financial sector, </br> I never stopped learning programming on my own. </br>  </br> In 2023, I decided to fully commit to this path and began my formal studies in Software Engineering to turn my industry experience into powerful technical solutions.
 
-+ Learning Go and Node.js, with a focus on ***Fintech***. :credit_card:
+> _I know the problem because I lived it, and now I want to develop the tools to solve it._
 
-+ Actively looking for opportunities to gain hands-on experience. :mortar_board:
+You can read my full story here:
 
-+ Passionate about everything related to backend development. :gem:
+&emsp; &emsp; &emsp; &emsp; :point_down:             
+## [From Fraud to Software](https://github.com/JhalexR/JhalexR/blob/main/MyStory/from-fraud-to-software.md)
 
+**Thanks for visiting my profile!** 
+
+</br>
 <p>
   <a href="https://www.linkedin.com/in/jhalexr/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
