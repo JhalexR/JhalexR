@@ -1,6 +1,14 @@
 
-![Mizen](https://github.com/JhalexR/JhalexR/blob/main/Icons/Mizen_banner_1.png)
 
+```rust
+fn main(){
+    let future = async {
+        // ideas -> code -> impact
+        build_something().await;       
+    };
+    run_concurrent(future);
+}
+```
 # :back::end: ... :soon:  
 
  >> _I spent years understanding how financial fraud works. </br> Now, I'm building the software I once wished existed._
