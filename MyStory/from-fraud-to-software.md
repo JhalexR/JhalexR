@@ -28,17 +28,25 @@ gitGraph
 
     checkout main
 
-    commit id:"Return to Software Engineering (2023)"
+    commit id:"Return to<br> Software Engineering<br> (2023)"
 
     commit id:"Backend Development"
 
+    commit id:"Today<br> On the way..."
+
+    commit id:"Secure Software<br> development"
+
     commit id:"Distributed Systems"
+
+    commit id:"API integration"
+
+    commit id:"Concurrence"
 
     commit id:"Fintech Projects"
 
     merge career
     
-     commit id:"Today"
+     commit id:"Coming soon..."
 ```
 
 My interest in software development began more than twenty years ago, when I first studied Systems Engineering and learned the fundamentals of programming with C++. Although I was unable to continue my studies at that time, my curiosity about software never disappeared.
