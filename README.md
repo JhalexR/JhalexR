@@ -9,9 +9,10 @@ fn main(){
     run_concurrent(future);
 }
 ```
-<br>
 
 # [From Fraud to Software](https://github.com/JhalexR/JhalexR/blob/main/MyStory/from-fraud-to-software.md) :link: :key:
+
+click aqui :point_up_2:
 
  >> _I spent years understanding how financial fraud works. </br> Now, I'm building the software I once wished existed._
 
