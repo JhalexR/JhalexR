@@ -51,7 +51,7 @@ My passion for software development started years ago. Although my career path i
 You can read my full story here:
 
 &emsp; &emsp; &emsp; &emsp; :point_down:             
-## [From Fraud to Software](https://github.com/JhalexR/JhalexR/blob/main/MyStory/from-fraud-to-software.md)
+# [From Fraud to Software](https://github.com/JhalexR/JhalexR/blob/main/MyStory/from-fraud-to-software.md)
 
 **Thanks for visiting my profile!** 
 
