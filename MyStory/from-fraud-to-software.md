@@ -32,9 +32,9 @@ gitGraph
 
     commit id:"Backend Development"
 
-    commit id:"Today<br> On the way..."
+    commit id:"Today: On the way..."
 
-    commit id:"Secure Software<br> development"
+    commit id:"Secure Software"
 
     commit id:"Distributed Systems"
 
