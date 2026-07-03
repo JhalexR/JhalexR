@@ -9,6 +9,13 @@ fn main(){
     run_concurrent(future);
 }
 ```
+<br>
+
+You can read my full story here: :point_down: 
+
+# [From Fraud to Software](https://github.com/JhalexR/JhalexR/blob/main/MyStory/from-fraud-to-software.md) :link: :key:
+
+
 # :back::end: ... :soon:  
 
  >> _I spent years understanding how financial fraud works. </br> Now, I'm building the software I once wished existed._
@@ -60,10 +67,6 @@ gitGraph
 
 >> _I know the problem because I lived it, and now I want to develop the tools to solve it._
 
-You can read my full story here:
-
-&emsp; &emsp; &emsp; &emsp; :point_down:             
-# [From Fraud to Software](https://github.com/JhalexR/JhalexR/blob/main/MyStory/from-fraud-to-software.md)
 
 **Thanks for visiting my profile!** 
 
