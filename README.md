@@ -13,6 +13,13 @@ fn main(){
 
  >> _I spent years understanding how financial fraud works. </br> Now, I'm building the software I once wished existed._
 
+
+I’m John Alexander, a Software Engineering student 🔰 from Colombia, </br> focused on backend development for the fintech and banking sectors. 💳
+
+I am currently in the early stages of my tech career 🌱 </br> and am actively seeking opportunities to gain practical experience through internships or junior roles. 🎓
+
+My passion for software development started years ago. Although my career path initially led me to the financial sector, </br> I never stopped learning programming on my own. </br>  </br> In 2023, I decided to fully commit to this path and began my formal studies in Software Engineering to turn my industry experience into powerful technical solutions.
+
 ```mermaid
 gitGraph
     commit id:"Programming"
@@ -50,12 +57,6 @@ gitGraph
 
     commit id:"Fintech Engineer"
 ```
- 
-I’m John Alexander, a Software Engineering student 🔰 from Colombia, </br> focused on backend development for the fintech and banking sectors. 💳
-
-I am currently in the early stages of my tech career 🌱 </br> and am actively seeking opportunities to gain practical experience through internships or junior roles. 🎓
-
-My passion for software development started years ago. Although my career path initially led me to the financial sector, </br> I never stopped learning programming on my own. </br>  </br> In 2023, I decided to fully commit to this path and began my formal studies in Software Engineering to turn my industry experience into powerful technical solutions.
 
 >> _I know the problem because I lived it, and now I want to develop the tools to solve it._
 
