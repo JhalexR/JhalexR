@@ -1,5 +1,5 @@
 
-![Mizen](https://github.com/JhalexR/JhalexR/blob/main/Icons/Mizen_E_short.png)
+![Mizen](https://github.com/JhalexR/JhalexR/blob/main/Icons/Mizen_banner.png)
 
 # :back::end: ... :soon:  
 
