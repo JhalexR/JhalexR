@@ -11,15 +11,11 @@ fn main(){
 ```
 <br>
 
-You can read my full story here: :point_down: 
-
 # [From Fraud to Software](https://github.com/JhalexR/JhalexR/blob/main/MyStory/from-fraud-to-software.md) :link: :key:
-
-
-# :back::end: ... :soon:  
 
  >> _I spent years understanding how financial fraud works. </br> Now, I'm building the software I once wished existed._
 
+# :back::end: ... :soon: 
 
 I’m John Alexander, a Software Engineering student 🔰 from Colombia, </br> focused on backend development for the fintech and banking sectors. 💳
 
