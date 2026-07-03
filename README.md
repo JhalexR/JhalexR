@@ -1,3 +1,6 @@
+
+![Mizen](https://github.com/JhalexR/JhalexR/blob/main/Icons/Mizen.png)
+
 # :back::end: ... :soon:  
 
  >> _I spent years understanding how financial fraud works. </br> Now, I'm building the software I once wished existed._
