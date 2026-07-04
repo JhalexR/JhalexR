@@ -1,9 +1,5 @@
 
-<div style="text-align: right;">
-
 ![](https://komarev.com/ghpvc/?username=JhalexR) 
-
-</div>
 
 ```rust
 fn main(){
@@ -14,15 +10,6 @@ fn main(){
     run_concurrent(future);
 }
 ```
-<div style="text-align: right;">
-</br>
-<p>
-  <a href="https://www.linkedin.com/in/jhalexr/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</p> 
-</div>
-
 # :link: [From Fraud to Software](https://github.com/JhalexR/JhalexR/blob/main/MyStory/from-fraud-to-software.md) :link:
 
  >> _I spent years understanding how financial fraud works. </br> Now, I'm building the software I once wished existed._
@@ -68,7 +55,12 @@ gitGraph
     commit id:"Fintech Engineer"
 ```
 
-<br>
+<p>
+  <a href="https://www.linkedin.com/in/jhalexr/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</p>
+
 I am currently in the early stages of my tech career 🌱 </br> and am actively seeking opportunities to gain practical experience through internships or junior roles. 🎓
 
 My passion for software development started years ago. Although my career path initially led me to the financial sector :moneybag: 
