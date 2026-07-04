@@ -14,9 +14,6 @@ fn main(){
 
  >> _I spent years understanding how financial fraud works. </br> Now, I'm building the software I once wished existed._
 
-I’m John Alexander, a Software Engineering student 🔰 from Colombia, focused on backend development for the fintech and banking sectors. 💳
-<br>
-
 ```mermaid
 gitGraph
     commit id:"Programming"
@@ -60,6 +57,8 @@ gitGraph
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </p>
+
+I’m John Alexander, a Software Engineering student 🔰 from Colombia, focused on backend development for the fintech and banking sectors. 💳
 
 I am currently in the early stages of my tech career 🌱 </br> and am actively seeking opportunities to gain practical experience through internships or junior roles. 🎓
 
