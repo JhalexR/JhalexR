@@ -60,18 +60,18 @@ gitGraph
 
 I’m John Alexander, a Software Engineering student 🔰 from Colombia, focused on backend development for the fintech and banking sectors. 💳
 
-I am currently in the early stages of my tech career 🌱 </br> and am actively seeking opportunities to gain practical experience through internships or junior roles. 🎓
+I am currently in the early stages of my tech career 🌱 and am actively seeking opportunities to gain practical experience through internships or junior roles. 🎓
 
 My passion for software development started years ago. Although my career path initially led me to the financial sector :moneybag: 
 
 I never stopped learning programming on my own :footprints:
 
 In 2023, I decided to fully commit to this path and began my formal studies in Software Engineering to turn my industry experience into powerful technical solutions. :gear:
-
+</br>
 >> _I know the problem because I lived it, and now I want to develop the tools to solve it._
 
 **Thanks for visiting my profile!** 
-<br>
+</br>
 
 </div>
 
