@@ -69,8 +69,13 @@ I never stopped learning programming on my own :footprints:
 In 2023, I decided to fully commit to this path and began my formal studies in Software Engineering to turn my industry experience into powerful technical solutions. :gear:
 </br>
 >> _I know the problem because I lived it, and now I want to develop the tools to solve it._
+<div style="text-align: right;">
+<span style="color:#00FFFF">
+
 
 **Thanks for visiting my profile!** 
+</span>
+</div>
 </br>
 
 </div>
