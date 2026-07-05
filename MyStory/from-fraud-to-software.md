@@ -48,26 +48,112 @@ gitGraph
     
      commit id:"Coming soon..."
 ```
+<table>
+<tr>
+
+<td width="70%">
 
 My interest in software development began more than twenty years ago, when I first studied Systems Engineering and learned the fundamentals of programming with C++. Although I was unable to continue my studies at that time, my curiosity about software never disappeared.
+
+</td>
+
+<td width="30%" align="center">
+
+# :floppy_disk:
+
+</td>
+
+</tr>
+</table>
+
+
+
+
+
+
+<table>
+<tr>
+
+<td width="30%" align="center">
+
+# :bank:
+# :dollar:
+
+</td>
+
+<td width="70%">
 
 My professional career eventually led me into the financial sector, where I spent several years working in banks and payment companies in roles focused on fraud prevention, transaction monitoring, and financial risk analysis.
 
 Throughout that journey I had the opportunity to understand how the payment ecosystem works beyond the software itself.
 
+</td>
+
+</tr>
+</table>
+
+
+<table>
+<tr>
+
+<td width="70%">
+
 I worked with processes involving payment cards, transaction monitoring, fraud detection, chargebacks, customer claims, payment gateways, acquiring, and the operational challenges faced by fraud analysts every day.
 
 While working in these environments I often found myself imagining better tools.
+</td>
+
+<td width="30%" align="center">
+
+# :credit_card:
+
+</td>
+
+</tr>
+</table>
+
+<table>
+<tr>
+
+<td width="30%" align="center">
+
+# :satellite:
+
+</td>
+
+<td width="70%">
 
 I wondered how analysts could access the information they needed without compromising security, how transaction patterns could be analyzed more efficiently, how event-driven systems could automate repetitive investigations, and how software could reduce operational effort while improving fraud detection.
+
+</td>
+
+</tr>
+</table>
+
+<table>
+<tr>
+
+<td width="70%">
 
 Those ideas became the motivation to return to software engineering.
 
 In 2023 I decided to formally resume my path as a software engineer, and today I am completing my Software Engineering degree while building projects that combine modern software engineering practices with my experience in financial technology.
 
+</td>
+
+<td width="30%" align="center">
+
+# :man_technologist:
+# :mortar_board:
+
+</td>
+
+</tr>
+</table>
+
 ---
 
-# Why Fintech?
+# Why Fintech? 💱
 
 Many software engineers learn finance after they become developers.
 
@@ -82,7 +168,7 @@ My goal is to build software that helps financial institutions become safer, mor
 ---
 
 
-# My Engineering Philosophy
+# My Engineering Philosophy 𝚿🧠
 
 I believe software should solve real problems.
 
@@ -94,7 +180,7 @@ This repository reflects that philosophy.
 
 ---
 
-# Long-Term Vision
+# Long-Term Vision 🔭
 
 My long-term goal is to become a software engineer specialized in Financial Technology.
 
