@@ -126,14 +126,6 @@ In 2023, I decided to fully commit to this path and began my formal studies in S
 
 <div>
  
-### :watch: Streak 
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JhalexR&theme=dark&background=000000&ring=27F5F5)](https://git.io/streak-stats)
-
-</div>
-
-<div>
- 
 ### :coin: Contributions
 
 <p align="left">
